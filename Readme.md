@@ -22,7 +22,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1500573076
 ## Installation
 
 copy lagfix.zip in
-C:\Users\\*Username*\Documents\Paradox Interactive\Hearts of Iron IV\workshop\content\281990\1500564837\lagfix.zip
+C:\Users\\*Username*\Documents\Paradox Interactive\Hearts of Iron IV\workshop\content\394360\1500564837\lagfix.zip
 
 copy.mod file in
 C:\Users\\*Username*\Documents\Paradox Interactive\Hearts of Iron IV\mod
