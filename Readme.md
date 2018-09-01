@@ -21,3 +21,7 @@ C:\Users\*Username*\Documents\Paradox Interactive\Hearts of Iron IV\workshop\con
 
 copy.mod file in
 C:\Users\*Username*\Documents\Paradox Interactive\Hearts of Iron IV\mod
+
+## Modification
+
+If you want to play a super minor or allow it back into the game, just simply copy back the file from the main game or delete the file in countries from the save game. you can also look up the files and change the production back to the usual number again.
