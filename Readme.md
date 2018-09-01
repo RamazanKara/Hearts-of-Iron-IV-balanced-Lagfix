@@ -15,8 +15,7 @@ It is heavily influenced by the mod "lags never again", but with more emphasis o
 If you have suggestions or feedback how to even further improve the late game lag, please feel free to contribute or join the discord:
 https://discord.gg/USWcQc
 
-It is on Steam now. You can simply install it from the workshop:
-https://steamcommunity.com/sharedfiles/filedetails/?id=1500573076
+It is released on the Steam Workshop.
 
 
 ## Installation
@@ -26,6 +25,10 @@ C:\Users\\*Username*\Documents\Paradox Interactive\Hearts of Iron IV\workshop\co
 
 copy.mod file in
 C:\Users\\*Username*\Documents\Paradox Interactive\Hearts of Iron IV\mod
+
+Or simply download it from the Steam Workshop:
+
+##### https://steamcommunity.com/sharedfiles/filedetails/?id=1500573076
 
 ## Modification
 
