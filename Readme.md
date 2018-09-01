@@ -28,7 +28,7 @@ C:\Users\\*Username*\Documents\Paradox Interactive\Hearts of Iron IV\mod
 
 Or simply download it from the Steam Workshop:
 
-##### https://steamcommunity.com/sharedfiles/filedetails/?id=1500573076
+##### https://steamcommunity.com/sharedfiles/filedetails/?id=1500628543
 
 ## Modification
 
