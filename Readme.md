@@ -2,7 +2,7 @@
 
 ## Description
 
-They are lots of lagfixes mods out for hoi4, the issue is that all of these mods either remove minors or force majors into building
+They are lots of lagfix mods out for hoi4, the issue is that all of these mods either remove minors or force majors into building
 high width divisions, which messes up the gamebalance. 
 This mod actually prevents lagging by making it impossible for the super minors like peru to produce anything, but they still stay in the game. This is a lot less harsh on game balance.
 Also there is a lot of background stuff going on that actually improves the performance, without having an effect on balance.
