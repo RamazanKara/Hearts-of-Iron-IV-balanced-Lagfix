@@ -10,8 +10,6 @@ Also there is a lot of background stuff going on that actually improves the perf
 This mod was tested multiple times on our discord server and is also gonna be published in steam. We never had a desync, nor 
 did we had a game slow down till 1941, which was a first.
 
-It is heavily influenced by the mod "lags never again", but with more emphasis on balance.
-
 If you have suggestions or feedback how to even further improve the late game lag, please feel free to contribute or join the discord:
 https://discord.gg/USWcQc
 
