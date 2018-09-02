@@ -25,6 +25,8 @@ It is released on the Steam Workshop.
 copy 1500564838.mod file and 1500564838 folder in
 C:\Users\\*Username*\Documents\Paradox Interactive\Hearts of Iron IV\mod
 
+Checksum in game is: 1553
+
 Or simply download it from the Steam Workshop:
 
 ##### https://steamcommunity.com/sharedfiles/filedetails/?id=1500628543
