@@ -1,0 +1,54 @@
+﻿division_template = {
+	name = "Infanterie-Division"					# Represents Infanterie Welles 1-4
+	division_names_group = GER_Inf_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 0 y = 3 }
+		infantry = { x = 0 y = 4 }
+   		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 1 y = 3 }
+		infantry = { x = 1 y = 4 }
+  		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+		infantry = { x = 2 y = 3 }
+		infantry = { x = 2 y = 4 }
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+		artillery = { x = 0 y = 1 }
+	}
+}
+
+units = {
+	##### Ejército de Chile #####
+	division= {	# "1era División del Ejercito"
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 650 # Santiago
+		division_template = "Infanterie-Division"
+		start_experience_factor = 0.1
+		start_equipment_factor = 0.3
+
+	}
+}
+
+
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_0
+			creator = "CHL"
+		}
+		requested_factories = 1
+		progress = 0.18
+		efficiency = 100
+	}
+}

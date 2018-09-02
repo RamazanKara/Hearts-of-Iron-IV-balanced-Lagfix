@@ -20,10 +20,9 @@ It is released on the Steam Workshop.
 
 ## Installation
 
-copy lagfix.zip in
-C:\Users\\*Username*\Documents\Paradox Interactive\Hearts of Iron IV\mod\1500564838\lagfix.zip
 
-copy .mod file in
+
+copy 1500564838.mod file and 1500564838 folder in
 C:\Users\\*Username*\Documents\Paradox Interactive\Hearts of Iron IV\mod
 
 Or simply download it from the Steam Workshop:
