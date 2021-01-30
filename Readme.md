@@ -13,10 +13,7 @@ Also there is a lot of background stuff going on that actually improves the perf
 This mod was tested multiple times on our discord server and is also gonna be published in steam. We never had a desync, nor 
 did we had a game slow down till 1941, which was a first.
 
-If you have suggestions or feedback how to even further improve the late game lag, please feel free to contribute or join the discord:
-https://discord.gg/USWcQc
-
-It is released on the Steam Workshop.
+It is released on the Steam Workshop and currently is one of the most downloaded mods for Hearts of Iron IV (+150k Downloads)
 
 For singleplayer and multiplayer use.
 
